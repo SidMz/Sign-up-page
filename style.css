@@ -37,7 +37,7 @@ form h1{
 }
 label{
     font-size: 25px;
-    display: flex;
+    
     margin-bottom: 5px;
     font-weight: 600;
 }
@@ -45,6 +45,7 @@ input{
     border-radius: 20px;
     padding: 15px 20px;
     font-size: 15px;
+    width: 100%;
 }
 .button input{
     cursor: pointer;
